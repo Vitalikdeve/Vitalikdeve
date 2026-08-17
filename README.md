@@ -70,5 +70,5 @@ Vitalik Zelianko (Ecosystem)
 ### 📬 Connect With Me
 <p align="left">
   <a href="https://github.com/Vitalikdeve"><img src="https://img.shields.io/badge/GitHub-Vitalikdeve-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:vitalikzelianko@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:VitaliZelianko@vitocv.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
