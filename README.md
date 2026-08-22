@@ -1,4 +1,4 @@
-# Hi there, I'm Vitalik Zelianko 👋
+# Hi there, I'm Vitali Zelianko 👋
 ### Full-Stack Developer · AI Products · SaaS Engineering
 
 <p align="left">
